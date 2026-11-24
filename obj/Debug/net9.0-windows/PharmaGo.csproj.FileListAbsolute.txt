@@ -1,0 +1,193 @@
+D:\PharmaGo\PharmaGo\bin\Debug\net9.0-windows\PharmaGo.exe
+D:\PharmaGo\PharmaGo\bin\Debug\net9.0-windows\PharmaGo.dll
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.Dashboard.resources
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.Login.resources
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.MainPage.resources
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.Properties.Resources.resources
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.Registration.resources
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.Welcome.resources
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.csproj.GenerateResource.cache
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.AssemblyInfoInputs.cache
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.AssemblyInfo.cs
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.csproj.CoreCompileInputs.cache
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.dll
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\refint\PharmaGo.dll
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.pdb
+D:\PharmaGo\PharmaGo\bin\Debug\net9.0-windows\PharmaGo.deps.json
+D:\PharmaGo\PharmaGo\bin\Debug\net9.0-windows\PharmaGo.runtimeconfig.json
+D:\PharmaGo\PharmaGo\bin\Debug\net9.0-windows\PharmaGo.pdb
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.genruntimeconfig.cache
+D:\PharmaGo\PharmaGo\obj\Debug\net9.0-windows\ref\PharmaGo.dll
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\bin\Debug\net9.0-windows\PharmaGo.exe
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\bin\Debug\net9.0-windows\PharmaGo.deps.json
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\bin\Debug\net9.0-windows\PharmaGo.runtimeconfig.json
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\bin\Debug\net9.0-windows\PharmaGo.dll
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\bin\Debug\net9.0-windows\PharmaGo.pdb
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.Dashboard.resources
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.Login.resources
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.MainPage.resources
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.Properties.Resources.resources
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.Registration.resources
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.Welcome.resources
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.csproj.GenerateResource.cache
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.AssemblyInfoInputs.cache
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.AssemblyInfo.cs
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.csproj.CoreCompileInputs.cache
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.dll
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\refint\PharmaGo.dll
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.pdb
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.genruntimeconfig.cache
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\ref\PharmaGo.dll
+D:\Learning\Prog. and College stuff\College Projects\Integrating the Interprise - PharmaGo\PharmaGo\obj\Debug\net9.0-windows\PharmaGo.csproj.Up2Date
+D:\latestph\bin\Debug\net9.0-windows\PharmaGo.exe
+D:\latestph\bin\Debug\net9.0-windows\PharmaGo.deps.json
+D:\latestph\bin\Debug\net9.0-windows\PharmaGo.runtimeconfig.json
+D:\latestph\bin\Debug\net9.0-windows\PharmaGo.dll
+D:\latestph\bin\Debug\net9.0-windows\PharmaGo.pdb
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.Dashboard.resources
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.Login.resources
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.MainPage.resources
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.Properties.Resources.resources
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.Registration.resources
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.Welcome.resources
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.csproj.GenerateResource.cache
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.GeneratedMSBuildEditorConfig.editorconfig
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.AssemblyInfoInputs.cache
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.AssemblyInfo.cs
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.csproj.CoreCompileInputs.cache
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.sourcelink.json
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.dll
+D:\latestph\obj\Debug\net9.0-windows\refint\PharmaGo.dll
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.pdb
+D:\latestph\obj\Debug\net9.0-windows\PharmaGo.genruntimeconfig.cache
+D:\latestph\obj\Debug\net9.0-windows\ref\PharmaGo.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\PharmaGo.exe
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\PharmaGo.deps.json
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\PharmaGo.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\PharmaGo.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\PharmaGo.pdb
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.Dashboard.resources
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.Login.resources
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.MainPage.resources
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.Registration.resources
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.Welcome.resources
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.dll
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\refint\PharmaGo.dll
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.pdb
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\ref\PharmaGo.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\latestph\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.csproj.Up2Date
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.ResetPasswordForm.resources
+C:\Users\HP\OneDrive\Desktop\latestph\obj\Debug\net9.0-windows\PharmaGo.Form1.resources
